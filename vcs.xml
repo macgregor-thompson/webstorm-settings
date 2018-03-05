@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/mhthompson86/angular-directline-webchat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mhthompson86/summer-golf-league.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Local/BotStuff" />
+    <option name="cloneParentDir" value="C:\Users\mthompson.INSTANT-TECH\Desktop" />
   </component>
 </application>
