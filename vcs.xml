@@ -22,8 +22,16 @@
           <option name="url" value="https://github.com/mhthompson86/summer-golf-league.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://teaminstant.visualstudio.com/ChimeHubMicrosite/_git/ChimeHubMicrosite" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://teaminstant.visualstudio.com" />
+          <option name="userName" value="mthompson" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\mthompson.INSTANT-TECH\Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code" />
   </component>
 </application>
