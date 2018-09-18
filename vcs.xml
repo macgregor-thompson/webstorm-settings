@@ -80,6 +80,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\mthompson.INSTANT-TECH\source\repos\All_Microsites" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code/All_Microsites" />
   </component>
 </application>
