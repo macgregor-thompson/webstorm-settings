@@ -98,6 +98,14 @@
           <option name="url" value="https://github.com/UltimateAngular/ultimate-angular-starter-seed.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/UltimateAngular/ultimate-angular-master-src.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/UltimateAngular/angular-1-performance-src.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Local" />
