@@ -112,6 +112,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Local" />
+    <option name="cloneParentDir" value="$USER_HOME$/RSI" />
   </component>
 </application>
