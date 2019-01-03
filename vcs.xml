@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/UltimateAngular/angular-pro-src.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://macgregorthompson@bitbucket.org/traxion/ng-ninety.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\macgregor.thompson\WebstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\macgregor.thompson" />
   </component>
 </application>
