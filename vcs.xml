@@ -3,19 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="mhthompson86" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/UltimateAngular/angular-pro-src.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://macgregorthompson@bitbucket.org/traxion/ng-ninety.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mhthompson86/summer-golf-league.git" />
+          <option name="url" value="https://macgregorthompson@bitbucket.org/traxion/ninety.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
