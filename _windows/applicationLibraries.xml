@@ -4,19 +4,7 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/express" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/jquery" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/node" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/rx-angular" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
