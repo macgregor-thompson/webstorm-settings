@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="coursessss" type="JSON" />
       <mapping pattern="foo" type="JSON" />
       <mapping pattern="courses" type="JSON" />
       <mapping pattern="new-scores" type="JSON" />
-      <mapping pattern="global-lists.scss" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="global-lists.scss" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
