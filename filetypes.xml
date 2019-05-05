@@ -8,7 +8,6 @@
       <mapping pattern="new-scores" type="JSON" />
       <mapping pattern="global-lists.scss" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
     </extensionMap>
