@@ -126,8 +126,12 @@
           <option name="url" value="https://macgregorthompson@bitbucket.org/traxion/ng-ninety.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mhthompson86/intro-mongo-db.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/RSI" />
+    <option name="cloneParentDir" value="$USER_HOME$/Courses/fem" />
   </component>
 </application>
