@@ -18,6 +18,7 @@
         </DecorationPartConfig>
       </list>
     </option>
+    <option name="blameInlineAuthorNameType" value="FIRSTNAME" />
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>
