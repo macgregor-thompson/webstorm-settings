@@ -19,7 +19,6 @@
       </list>
     </option>
     <option name="blameInlineAuthorNameType" value="FULL" />
-    <option name="blameStatusAuthorNameType" value="FIRSTNAME" />
     <option name="previousVersionMigrated" value="true" />
   </component>
 </application>
