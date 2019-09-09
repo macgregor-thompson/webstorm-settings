@@ -8,6 +8,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/d3" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/d3-selection" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jquery" type="javaScript">
       <CLASSES />
       <SOURCES />
