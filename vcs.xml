@@ -134,9 +134,13 @@
           <option name="url" value="git@github.com:mhthompson86/api-design-node-v3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mhthompson86/geek-source.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Courses/fem" />
+    <option name="cloneParentDir" value="$USER_HOME$/RSI" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
