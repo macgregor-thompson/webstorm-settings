@@ -17,13 +17,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CleanupBranches" is_action="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Main Menu" />
-      <path value="Git" />
-      <path value="Git" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="$Redo" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
