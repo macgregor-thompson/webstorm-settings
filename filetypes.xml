@@ -1,16 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".env" type=".env file" />
-      <mapping pattern="new-scores" type="JSON" />
-      <mapping pattern="courses" type="JSON" />
       <mapping pattern="foo" type="JSON" />
       <mapping pattern="coursessss" type="JSON" />
+      <mapping pattern="courses" type="JSON" />
+      <mapping pattern="new-scores" type="JSON" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="global-lists.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
