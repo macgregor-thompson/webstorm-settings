@@ -2,7 +2,8 @@
   <component name="GitToolBoxAppSettings2">
     <option name="blameInlineAuthorNameType" value="FULL" />
     <option name="blameStatusAuthorNameType" value="FIRSTNAME" />
+    <option name="outdatedBranchesOldCommitDeleteConfirmation" value="false" />
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="version" value="6" />
   </component>
 </application>
